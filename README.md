@@ -22,7 +22,7 @@ I'm particularly interested in international research opportunities involving **
 
 ## Featured Projects
 
-### Event-Based Camera – Detection Accuracy Improvement
+### Event-Based Camera – Detection Accuracy Improvement (Ongoing Project) 
 Sensor calibration, event data acquisition, noise filtering and detection accuracy evaluation.
 
 ### STM32-Based Control Unit
